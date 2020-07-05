@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/victory-compendium/static/css/main.523f09c5.chunk.css",
+    "main.js": "/victory-compendium/static/js/main.12c93759.chunk.js",
+    "main.js.map": "/victory-compendium/static/js/main.12c93759.chunk.js.map",
+    "runtime-main.js": "/victory-compendium/static/js/runtime-main.0d1d96bb.js",
+    "runtime-main.js.map": "/victory-compendium/static/js/runtime-main.0d1d96bb.js.map",
+    "static/js/2.749b729c.chunk.js": "/victory-compendium/static/js/2.749b729c.chunk.js",
+    "static/js/2.749b729c.chunk.js.map": "/victory-compendium/static/js/2.749b729c.chunk.js.map",
+    "index.html": "/victory-compendium/index.html",
+    "precache-manifest.ed39beb580459a4aa6a3f3097600a5eb.js": "/victory-compendium/precache-manifest.ed39beb580459a4aa6a3f3097600a5eb.js",
+    "service-worker.js": "/victory-compendium/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/victory-compendium/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.749b729c.chunk.js.LICENSE.txt": "/victory-compendium/static/js/2.749b729c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/victory-compendium/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d1d96bb.js",
+    "static/js/2.749b729c.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.12c93759.chunk.js"
+  ]
+}
